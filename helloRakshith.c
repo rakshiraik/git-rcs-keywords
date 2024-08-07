@@ -10,5 +10,5 @@
 #include "stdio.h"
 
 int main(int argc, char *argv[])
-  printf("Hello, rakshith1!");
+  printf("Hello, rakshith2!");
 }
