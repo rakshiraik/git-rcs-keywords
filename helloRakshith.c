@@ -1,14 +1,14 @@
 /**
  * @file        helloRakshith.c
  * @author      @$Author: Rakshith K <rakshith.k@bixbytessolutions.com> $
- * @date        @$Date: Thu Aug 8 11:13:53 2024 $
- * @version     @$Revision: 133b70c4272a894a8c75cdf391240d6991656af4 $
+ * @date        @$Date: Thu Aug 8 11:31:32 2024 $
+ * @version     @$Revision: 3e3f83d205873cf9ff029b988029a9a75d8c2199 $
  *
- * $Id: helloRakshith.c | Thu Aug 8 11:13:53 2024 | Rakshith K <rakshith.k@bixbytessolutions.com>  $
+ * $Id: helloRakshith.c | Thu Aug 8 11:31:32 2024 | Rakshith K <rakshith.k@bixbytessolutions.com>  $
  */
 
 #include "stdio.h"
 
 int main(int argc, char *argv[])
-  printf("Hello, rakshith0UiiJJPPP!I00IYTYT1177__FF_II_IIK_IIT111666HHHH");
+  printf("Hello, rakshith0UiiJJPPP!llNN");
 }
