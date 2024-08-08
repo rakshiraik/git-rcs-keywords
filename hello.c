@@ -1,10 +1,10 @@
 /**
  * @file        hello.c
- * @author      @$Author$
- * @date        @$Date$
- * @version     @$Revision$
+ * @author      @$Author: Rakshith K <rakshith.k@bixbytessolutions.com> $
+ * @date        @$Date: Thu Aug 8 11:13:28 2024 $
+ * @version     @$Revision: d2f55646a8418256fadd72a6bf2f81a88a2e537d $
  *
- * $Id$
+ * $Id: hello.c | Thu Aug 8 11:13:28 2024 | Rakshith K <rakshith.k@bixbytessolutions.com>  $
  */
 
 #include "stdio.h"

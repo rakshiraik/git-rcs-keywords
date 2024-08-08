@@ -1,11 +1,8 @@
-
-[alias]
-	co = checkout
-	ci = commit -a
-
-# To add keyword expansion:
-# git init
-# cp ~/.gitconfig, <project>/.gitattributes, and <project>/.git_filters
-[filter "rcs-keywords"]
-	clean  = .git_filters/rcs-keywords.clean
-	smudge = .git_filters/rcs-keywords.smudge %f
+/**
+ * @file        .gitconfig
+ * @author      @$Author: Martin Turon <martin@turon.com> $
+ * @date        @$Date: Tue Apr 12 14:26:02 2011 $
+ * @version     @$Revision: 16138bee449499605d0cd680c7a57666314125da $
+ *
+ * $Id: .gitconfig | Tue Apr 12 14:26:02 2011 | Martin Turon <martin@turon.com>  $
+ */

@@ -1,13 +1,8 @@
-#!/usr/bin/perl -p
-#
-# @brief  Git filter to implement rcs keyword expansion as seen in cvs and svn.
-# @author Martin Turon
-#
-# Copyright (c) 2009-2011 Turon Technologies, Inc.  All rights reserved.
-
-s/\$Id[^\$]*\$/\$Id\$/; 
-s/\$Date[^\$]*\$/\$Date\$/;
-s/\$Author[^\$]*\$/\$Author\$/; 
-s/\$Source[^\$]*\$/\$Source\$/; 
-s/\$File[^\$]*\$/\$File\$/; 
-s/\$Revision[^\$]*\$/\$Revision\$/;
+/**
+ * @file        rcs-keywords.clean
+ * @author      @$Author: Maghiel Dijksman <mail@mdijksman.nl> $
+ * @date        @$Date: Tue May 17 20:11:06 2011 $
+ * @version     @$Revision: 9dbe7c521e8fc5c70a57788501ed07454bdff419 $
+ *
+ * $Id: rcs-keywords.clean | Tue May 17 20:11:06 2011 | Maghiel Dijksman <mail@mdijksman.nl>  $
+ */

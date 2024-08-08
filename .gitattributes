@@ -1,8 +1,8 @@
-# .gitattributes
-# Map file extensions to git filters
-
-*.h filter=rcs-keywords
-*.c filter=rcs-keywords
-*.cc filter=rcs-keywords
-*.m filter=rcs-keywords
-*.mm filter=rcs-keywords
+/**
+ * @file        .gitattributes
+ * @author      @$Author: Martin Turon <martin@turon.com> $
+ * @date        @$Date: Tue Apr 12 15:22:44 2011 $
+ * @version     @$Revision: 8397aca1886102ff386862bc64276df88089c5c7 $
+ *
+ * $Id: .gitattributes | Tue Apr 12 15:22:44 2011 | Martin Turon <martin@turon.com>  $
+ */
